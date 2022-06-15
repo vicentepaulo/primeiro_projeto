@@ -4,5 +4,5 @@ function alerta(){
 
 function msgBoasVindas(){
 
-    alert("SEJA BEM-VINDO(A) AO SISTEMA!")
+    alert("SEJA BEM-VINDO(A) AO SISTEMA DE GESTAO!")
 }
