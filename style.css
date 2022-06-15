@@ -3,6 +3,7 @@ body{
 }
 
 #botao{
+    margin: 50px;
     background-color: red;
     border: none;
     padding: 20px;
@@ -13,4 +14,17 @@ body{
 
 #botao:hover{
     background-color: rgb(255, 123, 123);
+}
+
+#botaoboasvindas{
+    background-color: green;
+    border: none;
+    padding: 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+#botaoboasvindas:hover{
+    background-color: rgb(53, 201, 53);
 }
